@@ -12,7 +12,7 @@
 **[✨ Use Hercai Unlimited with API Key!](https://hercai-shop.onrender.com)**
 #
 ### ❔ [Support](https://discord.gg/luppux)
-### 📂 [Nuget]()
+### 📂 [Nuget](https://www.nuget.org/packages/Hercai/1.0.0)
 ### 📝 [Github](https://github.com/Bes-js/Hercai.Core)
 #
 #
