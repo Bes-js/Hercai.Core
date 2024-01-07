@@ -15,11 +15,11 @@
     <repository type="git" commit="f60b9f20927750a3cbef33530089fde63ae765f0" />
   </metadata>
   <files>
-    <file src="C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
-    <file src="C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.dll" target="tools\net8.0\any\Hercai.dll" />
-    <file src="C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.deps.json" target="tools\net8.0\any\Hercai.deps.json" />
-    <file src="C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.pdb" target="tools\net8.0\any\Hercai.pdb" />
-    <file src="C:\Users\Ozdemir Home\Desktop\hercai\LICENSE.md" target="\LICENSE.md" />
-    <file src="D:\İndirilenler\hercai-logo (2)-min.png" target="\hercai-logo (2)-min.png" />
+    <file src="Hercai\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="net8.0\publish\Hercai.dll" target="tools\net8.0\any\Hercai.dll" />
+    <file src="net8.0\publish\Hercai.deps.json" target="tools\net8.0\any\Hercai.deps.json" />
+    <file src="net8.0\publish\Hercai.pdb" target="tools\net8.0\any\Hercai.pdb" />
+    <file src="hercai\LICENSE.md" target="\LICENSE.md" />
+    <file src="hercai-logo (2)-min.png" target="\hercai-logo (2)-min.png" />
   </files>
 </package>
