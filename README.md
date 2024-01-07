@@ -3,7 +3,7 @@
 
 # [Herc.ai](https://discord.gg/luppux)
 
-> **A powerful library for interacting with the [Herc.ai](https://discord.gg/luppux) API.**
+> **A powerful .NET Nuget Package for interacting with the [Herc.ai](https://discord.gg/luppux) API.**
 
 > **We Offer It To You For Free.**
 > **[Herc.ai](https://discord.gg/luppux) Answers Your Question According To The Language, And It Supports All Languages.**
