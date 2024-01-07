@@ -1,0 +1,11 @@
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\Hercai.deps.json
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\Hercai.dll
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\Hercai.pdb
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.AssemblyInfoInputs.cache
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.AssemblyInfo.cs
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.csproj.CoreCompileInputs.cache
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.dll
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\refint\Hercai.dll
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\Hercai.pdb
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\obj\Debug\net8.0\ref\Hercai.dll

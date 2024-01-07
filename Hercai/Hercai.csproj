@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <IncludeSymbols>False</IncludeSymbols>
+    <PackAsTool>True</PackAsTool>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <Description>A powerful library for interacting with the Herc.ai API.</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Company>Luppux</Company>
+    <Authors>Bes</Authors>
+    <PackageIcon>hercai-logo (2)-min.png</PackageIcon>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ai, chatbot, openai, gpt, chatgpt, gpt-4, bing, gemini, bard, hercai, open-ai, text2image, image, image-generator, dalle, dall-e, midjourney, diffusion, bot, api, web</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\hercai\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="D:\İndirilenler\hercai-logo (2)-min.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

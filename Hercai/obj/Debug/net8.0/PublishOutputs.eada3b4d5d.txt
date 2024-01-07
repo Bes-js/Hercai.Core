@@ -1,0 +1,3 @@
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.dll
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.deps.json
+C:\Users\Ozdemir Home\source\repos\Hercai\Hercai\bin\Debug\net8.0\publish\Hercai.pdb
